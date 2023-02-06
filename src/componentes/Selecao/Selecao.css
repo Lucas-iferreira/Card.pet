@@ -1,0 +1,15 @@
+.selecao {
+  margin: 24px 0;
+}
+
+.selecao label {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 24px;
+}
+
+.selecao input {
+  background-color: #fff;
+  cursor: pointer;
+  font-size: 30px;
+}
