@@ -31,7 +31,7 @@ const Formulario = props => {
   return (
     <section className="formulario">
       <form onSubmit={escutar}>
-        <h1>Preenca os dados para criar o car do seu Pet</h1>
+        <h1>Preencha os dados para criar o card do seu Pet</h1>
         <CampoTexto
           obrigatorio={true}
           label="Nome"
